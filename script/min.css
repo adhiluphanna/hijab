@@ -1,0 +1,14 @@
+  img.hijab {
+      width: 100% !important;
+      max-width: 100% !important;
+      height: auto !important;
+      aspect-ratio: 0 !important
+  }
+
+  .post-body a {
+      pointer-events: auto !important;
+  }
+
+  a:link {
+      cursor: pointer
+  }
